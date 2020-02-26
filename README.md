@@ -1,6 +1,28 @@
 # flutter_study
 
-A new Flutter application.
+설치
+https://flutter.dev/docs/get-started/install/macos
+
+풀루터 플러그인(ios 에뮬을 위해 xcode 도 설치)
+https://flutter.dev/docs/get-started/editor#androidstudio
+
+	export PATH="$PATH:/Users/taekhwankwon/Workspace/toy/flutter/bin"
+	echo $path
+	which flutter
+	flutter doctor
+
+다트 플러그인
+https://dart.dev/get-dart
+	brew info dart
+
+
+ios emul을 위한
+sudo gem install cocoapods
+(https://blog.yagom.net/534/)
+
+프로젝트 폴더 ios 폴더 밑에서 실행
+pod install
+
 
 ## Getting Started
 
